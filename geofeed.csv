@@ -1,10 +1,10 @@
 2a13:2d40::/32,DE,DE-BE,Berlin,10179
 2a13:2d41::/32,FR,FR-IDF,Paris,75001
 2a13:2d42::/32,NL,NL-NH,Amsterdam,1012
-2a13:2d43::/32,CH,CH-ZH,Zurich, 8001
+2a13:2d43::/32,CH,CH-ZH,Zurich,8001
 2a13:2d44::/32,SE,SE-AB,Stockholm,111 22
 2a13:2d45::/32,BE,BE-BRU,Brussels,1120
-2a13:2d46::/32,AT,AT-9,Vienna, 1010
+2a13:2d46::/32,AT,AT-9,Vienna,1010
 2a13:2d47::/32,ES,ES-MD,Madrid,28001
 2a13:d900::/32,SK,SK-BL,Bratislava,851 01
 2a13:d901::/32,SI,SI-061,Ljubljana,1000
@@ -48,10 +48,10 @@
 2a13:68c0::/30,DE,DE-BE,Berlin,10179
 2a13:68c4::/30,FR,FR-IDF,Paris,75001
 2a13:69c0::/30,NL,NL-NH,Amsterdam,1012
-2a13:69c4::/30,CH,CH-ZH,Zurich, 8001
+2a13:69c4::/30,CH,CH-ZH,Zurich,8001
 2a0f:5ec0::/30,SE,SE-AB,Stockholm,111 22
 2a0f:5ec4::/30,BE,BE-BRU,Brussels,1120
-2a0f:7fc0::/30,AT,AT-9,Vienna, 1010
+2a0f:7fc0::/30,AT,AT-9,Vienna,1010
 2a0f:7fc4::/30,ES,ES-MD,Madrid,28001
 2a0f:edc0::/29,RU,RU-MOW,Moscow,
 2a11:f080::/29,US,US-DC,Washington,99301
